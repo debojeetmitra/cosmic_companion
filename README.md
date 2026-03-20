@@ -5,9 +5,6 @@ A space-themed, highly conversational AI chatbot built as a frontend assignment 
 ### 🔗 Live Demo
 *(Insert your Vercel Link Here)*
 
-### 🎥 Walkthrough Video
-*(Insert your Loom Link Here)*
-
 ---
 
 ## 🚀 Why I Picked This Topic
