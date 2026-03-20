@@ -3,7 +3,7 @@
 A space-themed, highly conversational AI chatbot built as a frontend assignment for Thinkly Labs. The Cosmic Companion serves as an interactive guide to the universe, capable of returning predefined space lore and dynamically fetching real summaries from Wikipedia.
 
 ### 🔗 Live Demo
-*(Insert your Vercel Link Here)*
+*cosmic-companion-six.vercel.app*
 
 ---
 
